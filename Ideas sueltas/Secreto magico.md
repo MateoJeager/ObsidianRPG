@@ -1,0 +1,1 @@
+**Un hechizo hace que no puedas revelar el secreto que se confiesa bajo él, vinculando a un tercero. Si este tercero muere, el secreto se puede revelar**

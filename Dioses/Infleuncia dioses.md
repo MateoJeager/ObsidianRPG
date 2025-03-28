@@ -1,0 +1,1 @@
+**Si se muere un avatar de un dios, pierde su influencia sobre el area**

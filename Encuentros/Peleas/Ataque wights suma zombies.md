@@ -1,0 +1,1 @@
+**Wights levantan enemigos cuando les drenan la vida maxima a 0 y se levantan como zombies 24 horas despues y vuelven a atacar en ese momento. Usar eso para levantar gente en el pueblo cuando atacan los wights donde esta la party. Tambien hacerlo con amigos de la party mas adelante**

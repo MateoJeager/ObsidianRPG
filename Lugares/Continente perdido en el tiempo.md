@@ -1,0 +1,1 @@
+**Encontrar un mapa con un continente del que no se conoce la existencia, al oeste o algo asi. Este mapa tendria letras en un idioma que no conocen y la party tendria un mapa mas actual en el que el continente no está. Pero en este mapa mas viejo si está**

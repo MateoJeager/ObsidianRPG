@@ -1,0 +1,1 @@
+**Algunos clerigos andan con su equipamiento incrustado con muchos diamantes**

@@ -1,0 +1,1 @@
+**Durante una mision de infiltrarse se encuentran a los hijos muy chicos de sus enemigos. Si los nenes se van, los van a descubir. Pueden estar siguiendo huellas y darse cuenta que en realidad son los nenes jugando que se alejaron un poco. Se ven al mismo tiempo, queda claro que los vieron y se van corriendo a la ciudad**

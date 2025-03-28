@@ -1,0 +1,1 @@
+**Paladin que quiere que los paladines sean libres de reyes y sus pactos**

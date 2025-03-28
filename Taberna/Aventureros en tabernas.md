@@ -1,0 +1,1 @@
+**Suelen haber aventureros en tabernas, si arman bardo, se la agarran todos contra ellos, mira que van a atacar la taberna que les gusta**

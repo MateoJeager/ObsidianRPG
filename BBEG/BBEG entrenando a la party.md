@@ -1,0 +1,1 @@
+**El primer bbeg está entrenando a la party y cuando se muere les deja información sobre quiénes los contratan**

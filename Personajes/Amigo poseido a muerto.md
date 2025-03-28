@@ -1,0 +1,1 @@
+**Un amigo tuyo es corrompido o poseido por algo y te ataca, si se pierde eso se mueren**

@@ -1,0 +1,1 @@
+Cuando hablas con tu patron, podes ver ojos en tu sombra, o que se mueve tu sombra o tu reflejo en el espejo o en el agua, cosas tuyas que se ven distintas

@@ -1,0 +1,1 @@
+**Solo uno de ellos(jugador) tiene la informacion que los puede salvar ya, si se las da, se muere por una maldicion o lo van a matar o pierde algo importante**

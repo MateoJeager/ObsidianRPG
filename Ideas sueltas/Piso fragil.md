@@ -1,0 +1,1 @@
+**Si se mueven mucho en un piso, se rompe, y tienen que pelear ahí**

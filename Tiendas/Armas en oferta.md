@@ -1,0 +1,1 @@
+**Hay un arma que no anda bien en la pila de armas de oferta pero no se cual es(pistola o arma magica)**

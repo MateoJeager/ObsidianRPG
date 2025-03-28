@@ -1,0 +1,1 @@
+**Un descendiente de x mago está destinado a ser grande o algo asi, y solo creen que está el mago de la party pero despues aparece otro pariente**

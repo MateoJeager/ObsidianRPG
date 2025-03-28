@@ -1,0 +1,1 @@
+**En una vision del pasado se ve que alguien esta viendo directamente a la persona que la ve, despues ese alguien los sigue**

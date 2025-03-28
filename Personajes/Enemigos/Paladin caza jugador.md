@@ -1,0 +1,1 @@
+**Paladin NPC que intenta cazar a uno de los jugadores y aliarse con el paladin (otro jugador)**

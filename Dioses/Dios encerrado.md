@@ -1,0 +1,1 @@
+**El avatar del dios en la isla. Esta forzado a mantener la forma de avatar**

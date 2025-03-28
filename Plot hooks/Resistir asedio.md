@@ -1,0 +1,2 @@
+**Un asedio para el que se pueden preparar, pueden atacar a los enemigos para reducirles las fuerzas, evacuar a los civiles, preparar mejores defensas, etc pero no todo al mismo tiempo
+Siege of Kalaman**

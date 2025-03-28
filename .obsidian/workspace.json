@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "e8475e0dc1fabe84",
+    "type": "split",
+    "children": [
+      {
+        "id": "87518680426a84f7",
+        "type": "tabs",
+        "dimension": 87.59305210918114,
+        "children": [
+          {
+            "id": "44556018c4f154fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partidas/Battle of Karigath/Encuentros/1 Banshee.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Banshee"
+            },
+            "group": "697c660c5292246a"
+          }
+        ]
+      },
+      {
+        "id": "84409944203f6fcf",
+        "type": "tabs",
+        "dimension": 12.40694789081886,
+        "children": [
+          {
+            "id": "c1b62886c29593ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Partidas/Battle of Karigath/Encuentros/1 Banshee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 Banshee"
+            },
+            "group": "697c660c5292246a"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ad3d951f746e0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c4537867672bcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef9fc3f70a16e06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ace0a396b02cac03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb96464c7aeca1cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "08be29458af1172b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cd7dec3dfe57af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428bb117c3da5b99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dc2d02fce247daf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "843c1e8b4a6ffe70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dac8e188e5865d35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f901a6705c84a4f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "442d302d5d73813e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "eef9fc3f70a16e06",
+  "lastOpenFiles": [
+    "Partidas/Battle of Karigath/Encuentros/00 Llegada.md",
+    "Partidas/Battle of Karigath/Battle of Karigath.md",
+    "Partidas/Battle of Karigath/Circulo De Dannan.md",
+    "Partidas/Battle of Karigath/Encuentros/1 Banshee.md",
+    "Partidas/Battle of Karigath/Encuentros/4 Golem de tumbas.md",
+    "Partidas/Battle of Karigath/Lugares/Torre De Danann.md",
+    "Partidas/Battle of Karigath/Lugares/Centro de Karigath.md",
+    "Partidas/Battle of Karigath/Lugares/Muelle.md",
+    "Partidas/Battle of Karigath/Lugares/Karigath.md",
+    "Partidas/Battle of Karigath/Encuentros/2 Huesos y Rocas.md",
+    "Partidas/Battle of Karigath/Ejercito no muerto.md",
+    "Partidas/Battle of Karigath/Personajes/Capitan Aldurin.md",
+    "Brujas/Brujas con armas magicas.md",
+    "Vision los persigue.md",
+    "Untitled.canvas",
+    "Partidas/Battle of Karigath/Lugares/Afueras de la ciudad.md",
+    "2025-03-24.md",
+    "Personajes/Enemigos/Manipulador encariñado.md",
+    "Encuentros/Vistos por los hijos de los enemigos.md",
+    "Plot hooks/Apoyo a la party fuerte.md",
+    "Personajes/Encuentran a quien buscaban muerto.md",
+    "Taberna/Timer explosion taberna.md",
+    "Partidas/Battle of Karigath/Encuentros/0- Cofre y carta.md",
+    "Partidas/Battle of Karigath/Personajes/Primer oficial.md",
+    "Partidas/Battle of Karigath/Personajes/Guerreros campo.md",
+    "Partidas/Battle of Karigath/Personajes/Iniciado.md",
+    "Partidas/Battle of Karigath/Personajes/Guardias puerta.md",
+    "Partidas/Battle of Karigath/Lugares/Untitled",
+    "Partidas/Battle of Karigath/Items",
+    "Partidas/Battle of Karigath/Personajes",
+    "Partidas/Battle of Karigath/Encuentros",
+    "Partidas/Battle of Karigath/Lugares",
+    "Partidas",
+    "Partidas/Battle of Karigath",
+    "Personajes/Enemigos",
+    "Personajes/Grupos",
+    "Items/Malditos"
+  ]
+}

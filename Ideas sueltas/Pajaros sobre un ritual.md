@@ -1,0 +1,1 @@
+**Se acercan a un lugar con chanting de ritual o algo asi y desde mas lejos pueden ver muchos pajaros volando en circulo sobre el lugar**

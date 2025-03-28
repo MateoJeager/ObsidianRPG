@@ -1,0 +1,1 @@
+**Ellos tienen que organizar una emboscada antes de que lleven algo a otro lugar**

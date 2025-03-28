@@ -1,0 +1,1 @@
+**Un jugador con un backstory muy relacionado con su familia al final era adoptado.**

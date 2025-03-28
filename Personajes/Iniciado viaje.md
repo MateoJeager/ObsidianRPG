@@ -1,0 +1,1 @@
+**Un personaje que su aventura arranca como el rito de iniciacion de su tribu o clase o algo**

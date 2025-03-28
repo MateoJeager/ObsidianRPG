@@ -1,0 +1,1 @@
+**Una profecia que tiene en cuenta a toda la party y gente que está presente menos a uno**

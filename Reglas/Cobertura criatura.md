@@ -1,0 +1,1 @@
+**La criatura que da cobertura se come el ataque si es por ese bufo que el ataque no pega**

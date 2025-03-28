@@ -1,0 +1,1 @@
+**Lo mató alguien con un disfraz y tapado por eso si le hablan no sabe quien fue, pero puede describir el disfraz**

@@ -1,0 +1,1 @@
+**Un laberinto donde tengan que apretar una placa de presion en el piso todos al mismo tiempo en diferentes lugares, ponele que sean x-1 placas asi dos pueden ir juntos y se abren puertas al frente de cada una de esas placas**

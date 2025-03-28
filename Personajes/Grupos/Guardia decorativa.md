@@ -1,0 +1,1 @@
+**Un tipo de guardia onda granaderos que ya solo es decorativo y no tienen poder real y no hacen prácticamente nada**

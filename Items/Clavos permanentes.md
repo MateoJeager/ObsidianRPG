@@ -1,0 +1,1 @@
+**Los clavos que se hunden en la Tierra con un mazo de obsidiana son imposibles de sacar, a no ser que recites las palabras talladas en la cabeza del martillo. Se solian usar para atrapar demonios o montar campamentos magicos**

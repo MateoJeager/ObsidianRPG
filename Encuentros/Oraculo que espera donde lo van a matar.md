@@ -1,0 +1,1 @@
+**Un oraculo se queda en donde está sabiendo que lo van a ir a matar porque sabe que en sus últimos momentos va a encontrar a la party para poder decirles cosas importantes**

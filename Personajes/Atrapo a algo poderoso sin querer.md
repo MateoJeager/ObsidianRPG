@@ -1,0 +1,1 @@
+**Un lider de culto (como Roderick el mago de sandman) un aficionado que no sabe cómo funciona nada, es lvl bajo, pero atrapa a alguien poderoso**

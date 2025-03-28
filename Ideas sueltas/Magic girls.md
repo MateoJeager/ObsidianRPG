@@ -1,0 +1,1 @@
+**Magical girl Tensers transformation lvl 6 o Tashas algo**

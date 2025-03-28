@@ -1,0 +1,1 @@
+**No pueden matar a un bbeg porque está politicamente protegido porque si le pasa algo se desata una guerra o un problemon**

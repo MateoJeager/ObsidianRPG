@@ -1,0 +1,1 @@
+**Ruinas en el piso en la esquina de un acantilado, son para un ritual, tienen un símbolo**

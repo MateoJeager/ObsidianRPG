@@ -1,0 +1,1 @@
+**Los ultimos adoradores de un dios quedan dando vueltas por el mundo, con el objetivo de esparcir la creencia en su dios porque si nadie mas cree en el muere, ya tiene poco poder**

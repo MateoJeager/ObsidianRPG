@@ -1,0 +1,1 @@
+**En la primera campaña habrian varios unicornios, y se enteran de que hay una leyenda de que la persona que beba la sangre del ultimo unicornio recibiria una bendicion o algo asi, por eso en la segunda campaña hay un bbeg que esta intentando matarlos a todos y de casi todos bebe su sangre**

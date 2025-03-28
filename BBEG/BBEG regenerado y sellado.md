@@ -1,0 +1,1 @@
+**A un bbeg solo se lo puede matar si le sacas casi toda la vida y ahi le clavas algo, pero se regenera rapido**

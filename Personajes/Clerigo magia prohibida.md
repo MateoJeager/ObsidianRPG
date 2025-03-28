@@ -1,0 +1,1 @@
+**Un clerigo que a pesar de lo que dice su orden aprendio algo de magia que creyó que podia ayudarlo y a los objetivos de su orden**

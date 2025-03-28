@@ -1,0 +1,1 @@
+**Si se hacen amigos de un angel ,cuando mueran él va a intentar darles el tiempo que necesiten para estar en un limbo lindo (con gente que quieren) antes de que su alma vaya al plano donde deberian**

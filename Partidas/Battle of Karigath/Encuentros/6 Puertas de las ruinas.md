@@ -1,0 +1,1 @@
+[[Templo en ruinas]]

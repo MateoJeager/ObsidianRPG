@@ -1,0 +1,1 @@
+**Las voces de la cabeza de uno le tiran siempre la mala y le dicen que son la verdad pero son solo eso, las voces de su cabeza**

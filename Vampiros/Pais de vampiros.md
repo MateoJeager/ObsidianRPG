@@ -1,0 +1,1 @@
+**Vampiros tienen un pais o algo asi donde mandan a los desterrados o condenados a muerte para que vivan y son criados por vampiros a cambio de no hacer problema para los otros paises**

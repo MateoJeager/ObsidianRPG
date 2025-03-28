@@ -1,0 +1,1 @@
+**La party y otro grupo aliado van a atacar un lugar, en algun momento, el grupo aliado va a sonar el cuerno y tienen que ir a ayudar en x turnos a donde estén los demas o para activar algo**

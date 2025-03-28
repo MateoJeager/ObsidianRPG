@@ -1,0 +1,1 @@
+**Si te comes mas del 50% de tu vida como daño redondeado para arriba, te comes una herida permanente del xanatars guide to everything else o del dmg**
