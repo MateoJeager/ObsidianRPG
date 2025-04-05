@@ -1,0 +1,4 @@
+El uso de una acción para leer el pergamino lo encierra en una barrera invisible que se extiende desde usted para formar un cilindro de 5 pies de radio y 10 pies de altura. Durante 5 minutos, esta barrera evita que criaturas del tipo especificado entren o afecten cualquier cosa dentro del cilindro.
+El cilindro se mueve contigo y permanece centrado en ti. Sin embargo, si se mueve de tal manera que una criatura del tipo especificado estaría dentro del cilindro, el efecto termina.
+
+Una criatura puede intentar superar la barrera usando una acción para hacer un chequeo de carisma DC 15. En un éxito, la criatura deja de verse afectada por la barrera.

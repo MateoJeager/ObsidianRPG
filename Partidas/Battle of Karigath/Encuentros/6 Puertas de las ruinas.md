@@ -1,1 +1,1 @@
-[[Templo en ruinas]]
+[[Ruinas de Dunmara]]
